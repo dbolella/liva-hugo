@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2021-09-13T07:49:23+00:00
-image: images/author.jpg
+image: "/uploads/bolellaheadshot.jpeg"
 description: About Danny Bolella
 
 ---
