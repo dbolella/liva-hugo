@@ -1,20 +1,10 @@
 ---
-title: "About Me"
-date: 2019-10-29T13:49:23+06:00
-draft: false
+title: About Me
+date: 2021-09-13T07:49:23+00:00
+image: images/author.jpg
+description: About Danny Bolella
 
-# image
-image: "images/author.jpg"
-
-# meta description
-description: "this is meta description"
-
-# type
-type : "about"
 ---
+Danny Bolella is a Software Developer Lead (iOS) at a major trading company. He's a Stevens Tech alumni (’12) with over a decade of developer experience under his belt. With a number of projects completed for a handful of companies, Danny has done everything from full-stack web to mobile development (iOS being his true passion). One of his favorite projects was working on an app that connected to first-to-market, BLE-enabled prescription inhalers, improving the lives of many patients and enabling research with data like never before.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+Danny is married to his wonderful wife, Alyssa, and father to a son with another son on the way this August! He really enjoys coding for fun, reading biographies/memoirs, listening to music, and writing tech articles (\[Danny Bolella – Medium\]([https://dbolella.medium.com/](https://dbolella.medium.com/ "https://dbolella.medium.com/"))).
